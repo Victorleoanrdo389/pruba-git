@@ -11,3 +11,4 @@
 - [x] API REST
 - [x] Conexión a MongoDB
 - [ ] Autenticación JWT
+- [x] Middleware de logs
