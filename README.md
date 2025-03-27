@@ -7,3 +7,4 @@
 - [x] Diseño con Figma
 - [x] Maquetación HTML
 - [ ] Integración con React
+- [x] Componente Navbar
