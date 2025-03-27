@@ -3,3 +3,5 @@
 - Victor (rama: victor)
 - Emiliano (rama: emiliano)
 - Juan (rama: juan)
+\n## Desarrollo Frontend
+- [x] Diseño con Figma
