@@ -10,3 +10,4 @@
 \n## Desarrollo Backend
 - [x] API REST
 - [x] Conexión a MongoDB
+- [ ] Autenticación JWT
