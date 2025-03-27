@@ -13,3 +13,4 @@
 - [ ] Autenticación JWT
 \n## Pruebas de Calidad
 - [x] Pruebas unitarias
+- [x] Pruebas de integración
