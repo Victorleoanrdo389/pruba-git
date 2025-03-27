@@ -7,3 +7,5 @@
 - [x] Diseño con Figma
 - [x] Maquetación HTML
 - [ ] Integración con React
+\n## Desarrollo Backend
+- [x] API REST
