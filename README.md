@@ -15,3 +15,4 @@
 - [x] Pruebas unitarias
 - [x] Pruebas de integración
 - [ ] Pruebas E2E
+- [x] Configuración Jest
