@@ -1,0 +1,5 @@
+# Proyecto por Ramas Individuales
+**Colaboradores:**
+- Victor (rama: victor)
+- Emiliano (rama: emiliano)
+- Juan (rama: juan)
