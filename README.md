@@ -6,3 +6,4 @@
 \n## Desarrollo Frontend
 - [x] Diseño con Figma
 - [x] Maquetación HTML
+- [ ] Integración con React
