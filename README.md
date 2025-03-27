@@ -11,3 +11,5 @@
 - [x] API REST
 - [x] Conexión a MongoDB
 - [ ] Autenticación JWT
+\n## Pruebas de Calidad
+- [x] Pruebas unitarias
